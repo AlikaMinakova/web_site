@@ -32,6 +32,8 @@ LOGOUT_URL = 'logout'
 
 # Application definition
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
 INSTALLED_APPS = [
     'account.apps.AccountConfig',
     'django.contrib.auth',
