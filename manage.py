@@ -21,6 +21,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-'''qB5-wLG-d6q-qm7          python manage.py runserver'''
